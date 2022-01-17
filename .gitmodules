@@ -1,3 +1,6 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/hayleyBillingham/main.git
+[submodule "content-management-systems"]
+	path = content-management-systems
+	url = https://github.com/hayleyBillingham/content-management-systems.git
