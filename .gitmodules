@@ -1,3 +1,6 @@
 [submodule "azure"]
 	path = azure
 	url = https://github.com/hayleyBillingham/azure.git
+[submodule "main"]
+	path = main
+	url = ../main.git
