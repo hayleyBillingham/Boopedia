@@ -1,0 +1,3 @@
+[submodule "ajax"]
+	path = ajax
+	url = https://github.com/hayleyBillingham/ajax.git
